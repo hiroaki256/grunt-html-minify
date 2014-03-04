@@ -41,6 +41,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "html-minify": "~0.3.1"
+    "html-minify": "https://github.com/hiroaki256/html-minify/tarball/master"
   }
 }
